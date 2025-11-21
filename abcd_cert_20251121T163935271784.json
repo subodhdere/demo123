@@ -1,0 +1,8 @@
+{
+    "SHA1 Fingerprint": "72:4B:9C:57:54:4E:A7:81:B8:2D:61:D6:7D:D0:DE:77:DC:FB:19:DC",
+    "issuer": "CN=example",
+    "notAfter": "Nov 21 10:42:48 2026 GMT",
+    "notBefore": "Nov 21 10:42:48 2025 GMT",
+    "serial": "3326608417AC378447272CD389474E8FF49E1A74",
+    "subject": "CN=example"
+}
